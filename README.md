@@ -1,4 +1,3 @@
-# PLPportfolioforPeninah
 # Hi there, I'm Peninah Moraa 👋
 
 ### A passionate Aspiring Software Developer based in Nairobi, Kenya. I love building impactful solutions and learning new technologies!
@@ -42,7 +41,7 @@
 
 ### 📫 Connect with me:
 
-* **LinkedIn:** (https://www.linkedin.com/in/Penina Moraa/)
-* **Email:** (mailto:peninamoraa911@gmail.com)
+* **LinkedIn:** (https://www.linkedin.com/in/PeninaMoraa/)
+* **Email:** (peninamoraa911@gmail.com)
 
 ---
