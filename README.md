@@ -46,5 +46,3 @@
 * **Email:** (mailto:peninamoraa911@gmail.com)
 
 ---
-
-_Feel free to explore my repositories and reach out!_
